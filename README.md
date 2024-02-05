@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anaizerene
-- 👀 I’m interested in ... data analytics.
-- 🌱 I’m currently learning ... data analytics
-- 💞️ I’m looking to collaborate on ... raw data analysis using Tableau and other data visualization tools.
+- 👀 I’m interested in ... data analysis, python and c++
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... writing fun programs in python or c++, using data visualization tools to analyze raw data, sharing resources and tips. 
 - 📫 How to reach me ... via email: anaiz3rene@gmail.com
 
 <!---
